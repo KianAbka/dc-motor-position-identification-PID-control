@@ -27,6 +27,4 @@ The DC motor position response is analyzed to extract key step response paramete
 ```text
 Report/          Final project report
 Simulink_Model/  Simulink model files
-MATLAB_Code/     MATLAB scripts
-Figures/         Step response and PID tuning figures
 Results/         Identified transfer function and numerical results
